@@ -1,0 +1,175 @@
+
+@media  screen and (max-width: 500px) {
+
+
+  .container{
+    width: 500px;
+    border: 1px solid black;
+  }
+
+  .header{
+    width: 500px;
+    margin: 15px;
+    
+  }
+
+  .imgLogo{
+    width: 110px;
+  }
+
+  .navigation{
+    margin-left: 100px;
+  }
+
+  .header .navigation a{
+    margin-left: 15px;
+    font-size: 1em;
+  }
+
+  .mid-1{
+    margin-top: 100px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mid-1-image{
+    width: 350px;
+    margin-bottom: 20px;
+  }
+
+  .mid-1-h2{
+    text-align: center;
+    font-size: 1.8em;
+  }
+
+  .mid-1-p{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 400;
+  }
+
+  .mid-1-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mid-1-inp{
+    width: 92%;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-bottom: 20px;
+  }
+  
+  .mid-1-btn{
+    width: 92%;
+    margin-left: -2px;
+  }
+
+  .mid-2{
+    margin-top: 250px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    background: url('../images/bg-curve-mobile.svg') no-repeat center center/cover; 
+  }
+  
+  .mid-2-image{
+    width: 350px;
+    margin-bottom: 20px;
+    margin-top: 350px;
+  }
+  
+  .mid-2-h2{
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  .mid-2-p{
+    font-size: 1.2em;
+    font-weight: 400;
+  }
+  
+  .mid-2-card{
+    margin-top: 30px;
+    width: 343px;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px #00000033;
+    padding: 20px;
+  }
+
+  .mid-2-info{
+    text-align: center;
+  }
+
+  .mid-2-card{
+    margin-left: 50px;
+  }
+
+  .mid-3{
+    
+    margin-top: 260px;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mid-3-text{
+    margin: 50px;
+    margin-left: 40px;
+    text-align: center;
+  }
+  
+  .mid-3-text h2{
+    font-size: 1.1em;
+    
+  }
+  
+  .mid-3-text p{
+    text-align: center;
+    width: 400px;
+    font-size: 1.2em;
+    margin-left: -100px;
+  }
+  
+  .mid-3-input{
+    margin: 0;
+  }
+  
+  .mid-3-inp{
+    width: 370px;
+    margin-left: -10px;
+  }
+  
+  .mid-3-btn{
+    width: 370px;
+    margin-left: -10px;
+    margin-top: 10px;
+  }
+
+  .footer{
+    height: 130vh;
+  }
+
+  .contacts{
+    flex-direction: column;
+  }
+
+  .contacts ul li{
+    margin-top: 30px;
+  }
+
+  .icon-footer{
+    
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+
+  .info-4{
+    margin-left: 100px;
+  }
+}

@@ -24,7 +24,7 @@ body{
 
 .container{
   width: 100%;
-  max-width: 1445px; 
+  max-width: 1445px;
 }
 
 .header{
@@ -168,6 +168,7 @@ li{
 .img-profile{
   width: 45px;
   border-radius: 50px;
+  margin-right: 10px;
 }
 
 .info-h3{
@@ -258,6 +259,7 @@ small{
 .contacts ul li{
   list-style: none;
   margin-bottom: 20px;
+  color: var(--light-Grayish-Blue);
 }
 
 .contacts ul li a{
